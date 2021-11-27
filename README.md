@@ -34,6 +34,8 @@
 
 从数据库中读取的cursor中获取笔记列表对应的颜色数据，并设置笔记颜色
 
+![笔记颜色](https://github.com/twiness1/Android-mid-term-homework-notepad/blob/master/midwork-%E5%AD%97%E4%BD%93%E9%A2%9C%E8%89%B2.png)
+
 ```
 public class MyCursorAdapter extends SimpleCursorAdapter {
     public MyCursorAdapter(Context context, int layout, Cursor c,
