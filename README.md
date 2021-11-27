@@ -6,7 +6,7 @@
 ##### 基本要求：
 
   NoteList中显示条目增加时间戳显示
-  
+  ![主界面](https://github.com/twiness1/Android-mid-term-homework-notepad/blob/master/midwork-%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 
   笔记查询功能（根据标题查询）
     
