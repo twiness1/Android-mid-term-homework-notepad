@@ -29,7 +29,7 @@
   更改字体大小
     
 
-
+  ![字体大小](https://github.com/twiness1/Android-mid-term-homework-notepad/blob/master/midwork-%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F.png)
 
 
 从数据库中读取的cursor中获取笔记列表对应的颜色数据，并设置笔记颜色
