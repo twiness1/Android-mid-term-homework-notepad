@@ -13,6 +13,9 @@
 
   笔记查询功能（根据标题查询）
     
+    
+  ![查询](https://github.com/twiness1/Android-mid-term-homework-notepad/blob/master/midwork-%E6%9F%A5%E8%AF%A2.png)
+
 
 ##### 附加功能：
   
