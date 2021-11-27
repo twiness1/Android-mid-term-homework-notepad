@@ -22,7 +22,9 @@
 
   更改记事本的背景
     
-  
+    
+  ![背景](https://github.com/twiness1/Android-mid-term-homework-notepad/blob/master/midwork-%E8%83%8C%E6%99%AF%E9%A2%9C%E8%89%B2.png)
+
 
   更改字体大小
     
