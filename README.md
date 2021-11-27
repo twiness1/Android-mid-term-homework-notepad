@@ -490,9 +490,9 @@ public class NotesList extends AppCompatActivity implements LoaderManager.Loader
 }
 ```
 
-
-
 编辑标题
+
+![编辑标题](https://github.com/twiness1/Android-mid-term-homework-notepad/blob/master/midwork-%E7%BC%96%E8%BE%91%E6%A0%87%E9%A2%98.png)
 
 ```
 /*
